@@ -1,4 +1,4 @@
-package com.example.kotlinlab5
+package com.example.kotlinlab6
 
 import android.content.DialogInterface
 import android.os.Bundle
